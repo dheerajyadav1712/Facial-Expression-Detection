@@ -2,6 +2,8 @@
 
 🚀 **Facial Expression Detection** is an AI-powered system that recognizes human emotions in real-time using a webcam. Built with **OpenCV** and **Deep Learning**, this project can detect emotions like **Happiness, Sadness, Anger, Surprise, Neutral, and more**! Whether you're exploring **computer vision**, working on **AI-powered applications**, or just curious about how machines interpret emotions, this project is a great starting point.  
 
+🔥 **Made with passion by [Dheeraj](https://github.com/dheerajyadav1712) 💙**  
+
 ---
 
 ## 📌 **Project Overview**  
@@ -32,13 +34,14 @@ This **Facial Expression Detection** system uses a **Convolutional Neural Networ
 ---
 
 ## 🛠 **Tech Stack & Libraries**  
+
 | Technology  | Purpose  |  
 |------------|----------|  
-| **Python**  | Programming language  |  
-| **OpenCV**  | Face detection & video processing  |  
-| **TensorFlow/Keras**  | Deep learning model (CNN)  |  
-| **NumPy & Pandas**  | Data processing  |  
-| **Matplotlib**  | Visualization of results  |  
+| 🐍 **Python**  | Programming language  |  
+| 📸 **OpenCV**  | Face detection & video processing  |  
+| 🤖 **TensorFlow/Keras**  | Deep learning model (CNN)  |  
+| 📊 **NumPy & Pandas**  | Data processing  |  
+| 📈 **Matplotlib**  | Visualization of results  |  
 
 ---
 
@@ -110,4 +113,4 @@ This project is **open-source** and available under the **MIT License**.
 ---
 
 💡 **Let's bring AI-powered emotion detection to life!** 😃🎉  
-
+**🔥 Made with ❤️ by [Dheeraj](https://github.com/dheerajyadav1712) 🔥**  
