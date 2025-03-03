@@ -1,0 +1,4 @@
+1. Paste this in your Browser
+2. Download Python 3.10.11
+3. Windows installer (64-bit)	Windows
+4. macOS 64-bit universal2 installer	macOS
